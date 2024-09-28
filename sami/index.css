@@ -4,3 +4,6 @@ h3{
 div{
     background-color: rgb(255, 208, 22); padding: 30px; margin: 50px; border: 20px solid purple; border-radius: 35px;
 }
+h1{
+    margin-bottom: 30px; border: 20px solid blue; background-color: crimson; color: cyan;
+}
